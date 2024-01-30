@@ -1,0 +1,1 @@
+This is a personal blog. You can add posts, view or delete them. In addition you can send messages via email.
